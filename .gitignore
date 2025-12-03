@@ -1,0 +1,13 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+env/
+.Python
+build/
+dist/
+develop-eggs/
+.eggs/
+
+# IDE files (optional, e.g., VS Code)
+.vscode/
