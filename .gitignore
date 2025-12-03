@@ -8,6 +8,7 @@ build/
 dist/
 develop-eggs/
 .eggs/
+fireworks1/
 
 # IDE files (optional, e.g., VS Code)
 .vscode/
